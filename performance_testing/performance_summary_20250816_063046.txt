@@ -1,0 +1,14 @@
+crAPI Performance Test Summary
+========================================
+
+Test Date: 2025-08-16 06:31:17
+Target: http://localhost:8888
+
+Test Results:
+- api_load_test: FAILED
+  Users: 10, Duration: 0.6s
+
+- authenticated_load_test: FAILED
+  Users: 5, Duration: 0.6s
+
+Results Directory: performance_results_20250816_063046/

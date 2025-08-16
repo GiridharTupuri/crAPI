@@ -1,0 +1,3 @@
+[laravel-env] [http] [high] http://localhost:8888/.env [paths="/.env"]
+[codeigniter-env] [http] [high] http://localhost:8888/.env [paths="/.env"]
+[generic-env] [http] [high] http://localhost:8888/.env [paths="/.env"]
